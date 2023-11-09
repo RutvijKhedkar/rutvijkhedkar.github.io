@@ -1,6 +1,5 @@
 ---
 title: "Dr. Rutvij Khedkar"
-image: Rutvij.jpg
 toc: false
 about:
   template: solana
