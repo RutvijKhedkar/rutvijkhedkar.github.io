@@ -7,17 +7,17 @@
     "text": "This is my personal website. Thanks for stopping by."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "This website will be an attempt to share my work with you"
-  },
-  {
     "objectID": "index.html#hi-there",
     "href": "index.html#hi-there",
     "title": "Dr. Rutvij Khedkar",
     "section": "",
     "text": "This is my personal website. Thanks for stopping by."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "This website will be an attempt to share my work with you"
   }
 ]
