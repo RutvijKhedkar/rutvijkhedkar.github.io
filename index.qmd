@@ -1,11 +1,17 @@
 ---
-title: "personal website"
+title: "Dr. Rutvij Khedkar"
+image: Rutvij.jpg
+toc: false
+about:
+  template: solana
+  image-shape: round
+  image-width: 20em
+  
+links:
+    - text: e-mail
+      href: rutvijkhedkar@gmail.com
 ---
 
-This is a Quarto website.
+## Hi, there!
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+This is my personal website. Thanks for stopping by.
