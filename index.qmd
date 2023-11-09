@@ -1,5 +1,5 @@
 ---
-title: "rutvijkhedkar.github.io"
+title: "personal website"
 ---
 
 This is a Quarto website.
