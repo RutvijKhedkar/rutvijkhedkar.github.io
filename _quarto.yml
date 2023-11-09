@@ -9,7 +9,7 @@ navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - about: about.qmd
 
 format:
   html:
