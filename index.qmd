@@ -3,8 +3,6 @@ title: "Dr. Rutvij Khedkar"
 toc: false
 about:
   template: solana
-  image-shape: round
-  image-width: 20em
   
 links:
     - text: e-mail
