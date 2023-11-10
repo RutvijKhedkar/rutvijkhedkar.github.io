@@ -1,15 +1,5 @@
 ---
-title: "Dr. Rutvij Khedkar"
-about:
-  template: solana
-  
-links:
-    - text: e-mail
-      href: rutvijkhedkar@gmail.com
+title: "About me"
 ---
 
-## Hi, there!
-
-------------------------------------------------------------------------
-
-This is my personal website. Thanks for stopping by.
+### 

@@ -3,17 +3,19 @@ project:
   output-dir: docs
 
 website:
-  title: "personal website"
-  
-navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about: about.qmd
-
+  sidebar:
+    style: floating
+    search: true
+    contents:
+      - section: "Introduction"
+        contents:
+          - index.qmd
+      - section: "Layout"
+        contents:
+          
 format:
   html:
-    theme: sandstone
+    theme: flatly
     css: styles.css
     toc: true
     page-layout: full
