@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "About oncopathology"
 ---
 
 This website will be an attempt to share my work with you

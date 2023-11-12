@@ -10,8 +10,10 @@ website:
       - section: "Introduction"
         contents:
           - index.qmd
-      - section: "Layout"
+      - section: "Interests"
         contents:
+          - about.qmd
+          - GI.qmd
           
 format:
   html:
