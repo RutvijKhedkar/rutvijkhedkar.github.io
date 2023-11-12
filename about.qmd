@@ -2,4 +2,4 @@
 title: "About oncopathology"
 ---
 
-This website will be an attempt to share my work with you
+Strictly speaking, we are dealing with nothing other than histopathology. Since most work in the field of histopathology ultimately deals with the study of neoplasia, it is possible to brand the study of tumor pathology as oncopathology.
